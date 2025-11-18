@@ -10,7 +10,6 @@ Utilities for Stomp, by Stomp
 ## TODO
 
 - Yo momma?
-[//]: # (Get rekt)
 
 ## Special Thanks
 
